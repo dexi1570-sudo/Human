@@ -76,3 +76,4 @@ Human 不是为了制造一个“看起来像人”的程序。
 ## 研究记录
 
 - [脑内构景：从原生多模态到内部世界模型](research/mental-scene-construction.md) — 研究假设、Qwen3.5-Omni-Plus 初步观察与对照实验设计。
+- [运行连续性：从持久记忆到持续行动](research/operational-continuity.md) — 从现实代理案例提炼工程假设、最小原型与对照实验，区分行动连续性与主体连续性。
